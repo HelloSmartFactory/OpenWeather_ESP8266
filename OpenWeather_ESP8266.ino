@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
-#include <ArduinoJson.h>
+#include <ArduinoJson.h> //v6を使用しています
 #define ARDUINOJSON_DECODE_UNICODE 1
 
 ////////////////////////////////////
