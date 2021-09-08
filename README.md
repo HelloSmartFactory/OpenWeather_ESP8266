@@ -8,7 +8,7 @@ https://openweathermap.org/api
 price  
 https://openweathermap.org/price  
   
-#使用ライブラリについて  
+# 使用ライブラリについて  
 ArduinoJsonライブラリへのリンクはこちら
 https://github.com/bblanchon/ArduinoJson
 *v6を使用しています。
